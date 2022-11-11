@@ -25,6 +25,13 @@
                                "name":  "Cloud Sandbox (bcdenmarksandbox)",
                                "environmentType":  "Sandbox",
                                "environmentName":  "bcdenmarksandbox"
+                           },
+                           {
+                               "type":  "al",
+                               "request":  "launch",
+                               "name":  "Cloud Sandbox (bcsandbox3)",
+                               "environmentType":  "Sandbox",
+                               "environmentName":  "bcsandbox3"
                            }
                        ]
 }

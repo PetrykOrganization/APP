@@ -6,6 +6,6 @@ pageextension 51000 CustomerListExt extends "Customer List"
 {
     trigger OnOpenPage();
     begin
-        Message('App published: Hello G Mediator world');
+        Message('App published: Deploy to both env-s');
     end;
 }
