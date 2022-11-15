@@ -17,7 +17,7 @@
     [MessageHandler]
     procedure HelloWorldMessageHandler(Message: Text[1024])
     begin
-        MessageDisplayed := MessageDisplayed or (Message = 'App published: Deploy to both env-s');
+        MessageDisplayed := MessageDisplayed or (Message = 'App published: Crying Lightning');
     end;
 
     var

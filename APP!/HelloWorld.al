@@ -6,6 +6,6 @@ pageextension 51000 CustomerListExt extends "Customer List"
 {
     trigger OnOpenPage();
     begin
-        Message('App published: Deploy to both env-s');
+        Message('App published: Crying Lightning');
     end;
 }
