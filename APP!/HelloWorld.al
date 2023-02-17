@@ -6,6 +6,6 @@ pageextension 51000 CustomerListExt extends "Customer List"
 {
     trigger OnOpenPage();
     begin
-        Message('App published: Hell you New Release commit revert check');
+        Message('App published: Hell you New Release');
     end;
 }

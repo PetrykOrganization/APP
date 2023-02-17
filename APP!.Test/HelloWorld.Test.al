@@ -17,7 +17,7 @@
     [MessageHandler]
     procedure HelloWorldMessageHandler(Message: Text[1024])
     begin
-        MessageDisplayed := MessageDisplayed or (Message = 'App published: Hell you New Release commit revert check');
+        MessageDisplayed := MessageDisplayed or (Message = 'App published: Hell you New Release');
     end;
 
     var
